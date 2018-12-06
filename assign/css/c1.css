@@ -1,0 +1,16 @@
+body{
+    background-color: #e3e3e3be;
+    font-family: 'Times New Roman', Times, serif;
+}
+    
+    
+div {
+    width: 500px;
+    margin: auto;
+}
+
+blockquote{
+    border: 1px solid rgb(216, 43, 43);
+    text-align: center;
+    
+}
